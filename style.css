@@ -1,0 +1,115 @@
+body {
+  background-color: rgb(222, 182, 182);
+}
+
+#cartitas {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#roma {
+  background-image: url(./imgClima/roma.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#londres {
+  background-image: url(./imgClima/londres.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#paris {
+  background-image: url(./imgClima/paris.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#oslo {
+  background-image: url(./imgClima/oslo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Moscu {
+  background-image: url(./imgClima/moscu.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#casablanca {
+  background-image: url(./imgClima/casablanca.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#reikjavik {
+  background-image: url(./imgClima/reykjavik.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Cabo {
+  background-image: url(./imgClima/elCabo.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Niger {
+  background-image: url(./imgClima/niger.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Tripoli {
+  background-image: url(./imgClima/tripoli.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#sidney {
+  background-image: url(./imgClima/sydney.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Darwin {
+  background-image: url(./imgClima/darwin.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Dheli {
+  background-image: url(./imgClima/dheli.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Bangkok {
+  background-image: url(./imgClima/bangkok.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Dacca {
+  background-image: url(./imgClima/dacca.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Damasco {
+  background-image: url(./imgClima/damasco.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#NY {
+  background-image: url(./imgClima/york.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Mexico {
+  background-image: url(./imgClima/mexico.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Rio {
+  background-image: url(./imgClima/rio.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Lima {
+  background-image: url(./imgClima/lima.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#BA {
+  background-image: url(./imgClima/buenosAires.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
